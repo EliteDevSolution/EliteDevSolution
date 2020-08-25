@@ -5,10 +5,10 @@
   <samp> I am Full Stack Developer with 8+ years of programming exposure. I have worked on applications of all sizes, and have helped Startups and established institutions to solve their complex programming requirements.
 I am able to design and develop modern and complex web apps using Laravel,Django, Node.js, PHP and ASP.NET in the Backend and Angular 7 and 8,VueJs, React and Jquery in the Frontend and Shopify, Wordpress, Magento, Opencart etc..
 I have contributed towards writing custom web services to assist communication with native mobile apps. My Technical Skills include the following:
-  • MEAN (MongoDB, Express, AngularJS and NodeJS)
-  • Latest adoption being getting hands-on with PHP7, I am well versed to work in frameworks like CakePHP, CodeIgnitor, Laravel.
-  • Databases - NoSQL, MongoDB, PostgreSQL, MySQL, MSSQL, SQLite,
-  • Other tools that I use for web based application development are ORM - Bookshelf, Doctrine, Propel, Ajax and JavaScript, XML, CSS3, Jquery.
+  <br>• MEAN (MongoDB, Express, AngularJS and NodeJS)
+  <br>• Latest adoption being getting hands-on with PHP7, I am well versed to work in frameworks like CakePHP, CodeIgnitor, Laravel.
+  <br>• Databases - NoSQL, MongoDB, PostgreSQL, MySQL, MSSQL, SQLite,
+  <br>• Other tools that I use for web based application development are ORM - Bookshelf, Doctrine, Propel, Ajax and JavaScript, XML, CSS3, Jquery.
 I have provided best plus affordable services to numerous large as well as medium entrepreneurs. I possess good business communication skills.
 Looking forward
   </samp>
@@ -17,7 +17,6 @@ Looking forward
 </p>
 
 <hr>
-<h3 align='center'> 🔭  I’m currently working with ...</h4>
 
 ### Skill sets:
 
@@ -47,7 +46,7 @@ Looking forward
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <hr>
 
-<h3 align='center'> 🌱  I'm currently front-end works...</h4>
+<h3 align='center'> 🌱  I’m currently working with ...</h4>
 <br>
 <p align='center'>
   <img  src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
