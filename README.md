@@ -1,8 +1,8 @@
-<h2 align='center'> 🙋🏻‍♂️ Hi over there, I'm <a href="https://punitkmryh.netlify.app">Punit!</a>🧑🏻‍💻</h2>
+<h2 align='center'> 🙋🏻‍♂️ Hi over there, <a href="#">Welcome to my profile</a>🧑🏻‍💻</h2>
 
 <p align="center">
   <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
-  <samp> I'm a Final year Master's student in CSE from University Visvesvaraya College of Engineering (UVCE) Bangalore, IND. Passionate in developing MERN || MEVN Stack sites. I love what I do and I aspire to create designs and experiences that can help solve problems and communicate both in anesthetic and functional sense. I am looking forward to work, learn on both frontend and backend. A Passioniate towards learning, designing minimalistic UI/UX and Love sharing my knowledge and my insights of learning with others through Blogging. Some of the technologies I enjoy working with include NodeJS, ReactJS, other JS frameworks and UI/UX samples with prototyping using Figma and 💎 Adobe XD.
+  <samp> I'm a Final year Master's student in CSE from University Visvesvaraya College of Engineering (UVCE) Bangalore, IND. Passionate in developing MERN || MEVN Stack sites. I love what I do and I aspire to create designs and experiences that can help solve problems and communicate both in anesthetic and functional sense. I am looking forward to work, learn on both frontend and backend. A Passioniate towards learning, designing minimalistic UI/UX and Love sharing my knowledge and my insights of learning with others through Blogging. Some of the technologies I enjoy working with include NodeJS, ReactJS, other JS frameworks and PHP frameworks.
   </samp>
   <br>
   
@@ -85,7 +85,7 @@ These are my latest posts on [Medium](https://medium.com/@punitkmr), [my blog](h
 <hr>
 
 
-[![Punit's github stats](https://github-readme-stats.vercel.app/api?username=punitkmryh)](https://github.com/punitkmryh)
+[![Punit's github stats](https://github-readme-stats.vercel.app/api?username=elitedevsolution)](https://github.com/elitedevsolution)
 
 
 
