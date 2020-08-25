@@ -2,7 +2,15 @@
 
 <p align="center">
   <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
-  <samp> I'm a Final year Master's student in CSE from University Visvesvaraya College of Engineering (UVCE) Bangalore, IND. Passionate in developing MERN || MEVN Stack sites. I love what I do and I aspire to create designs and experiences that can help solve problems and communicate both in anesthetic and functional sense. I am looking forward to work, learn on both frontend and backend. A Passioniate towards learning, designing minimalistic UI/UX and Love sharing my knowledge and my insights of learning with others through Blogging. Some of the technologies I enjoy working with include NodeJS, ReactJS, other JS frameworks and PHP frameworks.
+  <samp> I am Full Stack Developer with 8+ years of programming exposure. I have worked on applications of all sizes, and have helped Startups and established institutions to solve their complex programming requirements.
+I am able to design and develop modern and complex web apps using Laravel,Django, Node.js, PHP and ASP.NET in the Backend and Angular 7 and 8,VueJs, React and Jquery in the Frontend and Shopify, Wordpress, Magento, Opencart etc..
+I have contributed towards writing custom web services to assist communication with native mobile apps. My Technical Skills include the following:
+  • MEAN (MongoDB, Express, AngularJS and NodeJS)
+  • Latest adoption being getting hands-on with PHP7, I am well versed to work in frameworks like CakePHP, CodeIgnitor, Laravel.
+  • Databases - NoSQL, MongoDB, PostgreSQL, MySQL, MSSQL, SQLite,
+  • Other tools that I use for web based application development are ORM - Bookshelf, Doctrine, Propel, Ajax and JavaScript, XML, CSS3, Jquery.
+I have provided best plus affordable services to numerous large as well as medium entrepreneurs. I possess good business communication skills.
+Looking forward
   </samp>
   <br>
   
@@ -11,9 +19,7 @@
 <hr>
 <h3 align='center'> 🔭  I’m currently working with ...</h4>
 
-
-<h4 align='center'> Skill sets</h5>
-### Skills and Tools:
+### Skill sets:
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
@@ -41,7 +47,7 @@
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <hr>
 
-<h3 align='center'> 🌱  I'm currently learning...</h4>
+<h3 align='center'> 🌱  I'm currently front-end works...</h4>
 <br>
 <p align='center'>
   <img  src="https://img.shields.io/badge/react%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;&nbsp;
@@ -56,9 +62,7 @@
 <h3 align='center'  >💬  Sometimes I like to write things here...</h4>
 <br>
 <p align='center' align='right'>
-  <a href="https://medium.com/@punitkmr"><img src="https://img.shields.io/badge/Medium%20-%231572B6.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://dev.to/punitkmryh_93"><img src="https://img.shields.io/badge/DEV.io-%2312100E.svg?&style=for-the-badge&logo=dev&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://punitharsoor.hashnode.dev/"><img src="https://img.shields.io/badge/hashnode-%23D14836.svg?&style=for-the-badge&logo=hashnode&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  For a better relationship in the future!!!
 </p>
 
 [![Punit's github stats](https://github-readme-stats.vercel.app/api?username=elitedevsolution)](https://github.com/elitedevsolution)
