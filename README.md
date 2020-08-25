@@ -10,7 +10,7 @@ I have contributed towards writing custom web services to assist communication w
     <p align='left'>• Databases - NoSQL, MongoDB, PostgreSQL, MySQL, MSSQL, SQLite,</p>
   <p align='left'>• Other tools that I use for web based application development are ORM - Bookshelf, Doctrine, Propel, Ajax and JavaScript, XML, CSS3, Jquery.</p>
 I have provided best plus affordable services to numerous large as well as medium entrepreneurs. I possess good business communication skills.
-Looking forward
+<p align='left'>👌 Cheer 👌 </p>
   </samp>
   <br>
   
