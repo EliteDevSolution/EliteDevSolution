@@ -66,7 +66,7 @@ I have provided best plus affordable services to numerous large as well as mediu
 
 [![EliteDevSolution's github stats](https://github-readme-stats.vercel.app/api?username=elitedevsolution&show_icons=true)](https://github.com/elitedevsolution)
 
-
+![Top DEV_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elitedevsolution&layout=compact)
 
 <!--<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" /> -->
 
