@@ -64,7 +64,7 @@ I have provided best plus affordable services to numerous large as well as mediu
   For a better relationship in the future!!!
 </p>
 
-[![EliteDevSolution's github stats](https://github-readme-stats.vercel.app/api?username=EliteDevSolution&show_icons=true)](https://github.com/elitedevsolution)
+[![EliteDevSolution's github stats](https://github-readme-stats.vercel.app/api?username=EliteDevSolution&show_icons=true&include_all_commits=true)](https://github.com/elitedevsolution)
 
 ![Top DEV_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elitedevsolution&layout=compact)
 
