@@ -69,16 +69,7 @@ I have provided best plus affordable services to numerous large as well as mediu
     <img src="https://github-readme-stats.vercel.app/api?username=elitedevsolution&show_icons=true&theme=tokyonight&include_all_commits=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitedevsolution&layout=compact&theme=tokyonight&include_all_commits=true" alt="languages" height="165">
 </p>
 
-
-[![EliteDevSolution's github stats](https://github-readme-stats.vercel.app/api?username=EliteDevSolution&show_icons=true&include_all_commits=true)](https://github.com/elitedevsolution)
-
-![Top DEV_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elitedevsolution&layout=compact)
-
-<!--<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" /> -->
-
 ![ so cool!](https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg )
-
-
 
 <!--
 **punitkmryh/punitkmryh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
