@@ -1,4 +1,4 @@
-<h2 align='center'> 🙋🏻‍♂️ Hi over there, <a href="#">Welcome to my profile</a>🧑🏻‍💻</h2>
+<h2 align='center'> 🙋🏻‍♂️ Hi over there, 👋 Welcome 🎉 to my profile! 🧑 </h2>
 
 <p align="center">
   <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
@@ -8,6 +8,8 @@
   </p>
   <br>
   <br>
+  Talking about Personal Stuffs:
+  
   <samp> I am Full Stack Developer with 8+ years of programming exposure. I have worked on applications of all sizes, and have helped Startups and established institutions to solve their complex programming requirements.
 I am able to design and develop modern and complex web apps using Laravel,Django, Node.js, PHP and ASP.NET in the Backend and Angular 7 and 8,VueJs, React and Jquery in the Frontend and Shopify, Wordpress, Magento, Opencart etc..
 I have contributed towards writing custom web services to assist communication with native mobile apps. My Technical Skills include the following:
