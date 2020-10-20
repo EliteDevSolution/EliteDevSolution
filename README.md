@@ -1,6 +1,8 @@
 <h2 align='center'> 🙋🏻‍♂️ Hi over there, 👋 Welcome 🎉 to my profile! 🧑 </h2>
 
-<img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif" width="25" height="25"/> Front-End | Back-End | WEB | Mobile | API | B2B | B2C | WebRTC | Ecommerce | Market place | Shipping | CRM | OpenCV
+<img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif" width="25" height="25"/> Developement of [Smartpublishers](https://system.smartpublishers.co) | [Cherokeesolutions](http://icma-d01.cherokeesolutions.com.br/) | [Scamdar PWA](https://www.scamdar.com/)
+
+<img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif" width="25" height="25"/> Front-End | Back-End | WEB | API | B2B | B2C | WebRTC | Ecommerce | Market place | Marketing | Shipping | CRM | OpenCV 
 
 <p align="center">
   <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
@@ -10,7 +12,7 @@
   </p>
   <br>
   <br>
-  #Talking about Personal Stuffs:
+  <h3>Talking about Personal Stuffs:</h3><br/>
   <samp> I am Full Stack Developer with 8+ years of programming exposure. I have worked on applications of all sizes, and have helped Startups and established institutions to solve their complex programming requirements.
 I am able to design and develop modern and complex web apps using Laravel,Django, Node.js, PHP and ASP.NET in the Backend and Angular 7 and 8,VueJs, React and Jquery in the Frontend and Shopify, Wordpress, Magento, Opencart etc..
 I have contributed towards writing custom web services to assist communication with native mobile apps. My Technical Skills include the following:
@@ -19,6 +21,8 @@ I have contributed towards writing custom web services to assist communication w
     <p align='left'>• Databases - NoSQL, MongoDB, PostgreSQL, MySQL, MSSQL, SQLite,</p>
   <p align='left'>• Other tools that I use for web based application development are ORM - Bookshelf, Doctrine, Propel, Ajax and JavaScript, XML, CSS3, Jquery.</p>
 I have provided best plus affordable services to numerous large as well as medium entrepreneurs. I possess good business communication skills.
+  - 👨‍💻 All of my projects are available at [DevDreamCatch](https://github.com/devdreamcatch) & [Enkompass](https://github.com/Enkompass).
+  
 <p align='left'>👌 Cheer 👌 </p>
   </samp>
   <br>
