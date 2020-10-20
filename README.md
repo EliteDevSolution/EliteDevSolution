@@ -23,8 +23,9 @@ I have contributed towards writing custom web services to assist communication w
   <p align='left'>• All of my projects are available at: 
   <p align='left'> - [DevDreamCatch](https://github.com/devdreamcatch)</p> 
   <p align='left'> - [Enkompass](https://github.com/Enkompass)</p>
-  I have provided best plus affordable services to numerous large as well as medium entrepreneurs. I possess good business communication skills.
-  <p align='left'>👌 Cheer 👌 </p>
+    I have provided best plus affordable services to numerous large as well as medium entrepreneurs. I possess good business communication skills.
+  
+   <p align='left'>👌 Cheer 👌 </p>
   </samp>
   <br>
   
