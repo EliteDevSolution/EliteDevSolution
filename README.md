@@ -12,7 +12,7 @@
   </p>
   <br>
   <br>
-  <h3>Talking about Personal Stuffs:</h3><br/>
+  <h4>Talking about Personal Stuffs:</h4>
   <samp> I am Full Stack Developer with 8+ years of programming exposure. I have worked on applications of all sizes, and have helped Startups and established institutions to solve their complex programming requirements.
 I am able to design and develop modern and complex web apps using Laravel,Django, Node.js, PHP and ASP.NET in the Backend and Angular 7 and 8,VueJs, React and Jquery in the Frontend and Shopify, Wordpress, Magento, Opencart etc..
 I have contributed towards writing custom web services to assist communication with native mobile apps. My Technical Skills include the following:
@@ -21,7 +21,7 @@ I have contributed towards writing custom web services to assist communication w
     <p align='left'>• Databases - NoSQL, MongoDB, PostgreSQL, MySQL, MSSQL, SQLite,</p>
   <p align='left'>• Other tools that I use for web based application development are ORM - Bookshelf, Doctrine, Propel, Ajax and JavaScript, XML, CSS3, Jquery.</p>
 I have provided best plus affordable services to numerous large as well as medium entrepreneurs. I possess good business communication skills.
-  - 👨‍💻 All of my projects are available at [DevDreamCatch](https://github.com/devdreamcatch) & [Enkompass](https://github.com/Enkompass).
+  <p align='left'>All of my projects are available at [DevDreamCatch](https://github.com/devdreamcatch) & [Enkompass](https://github.com/Enkompass)</p>
   
 <p align='left'>👌 Cheer 👌 </p>
   </samp>
