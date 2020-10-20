@@ -20,12 +20,11 @@ I have contributed towards writing custom web services to assist communication w
   <p align='left'>• Latest adoption being getting hands-on with PHP7, I am well versed to work in frameworks like CakePHP, CodeIgnitor, Laravel.</p>
     <p align='left'>• Databases - NoSQL, MongoDB, PostgreSQL, MySQL, MSSQL, SQLite,</p>
   <p align='left'>• Other tools that I use for web based application development are ORM - Bookshelf, Doctrine, Propel, Ajax and JavaScript, XML, CSS3, Jquery.</p>
-I have provided best plus affordable services to numerous large as well as medium entrepreneurs. I possess good business communication skills.
   <p align='left'>• All of my projects are available at: 
   <p align='left'> - [DevDreamCatch](https://github.com/devdreamcatch)</p> 
   <p align='left'> - [Enkompass](https://github.com/Enkompass)</p>
-  
-<p align='left'>👌 Cheer 👌 </p>
+  I have provided best plus affordable services to numerous large as well as medium entrepreneurs. I possess good business communication skills.
+  <p align='left'>👌 Cheer 👌 </p>
   </samp>
   <br>
   
