@@ -8,7 +8,7 @@
   <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
   <br>
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=EliteDevSolution&column=6&theme=onedark&title=Commit,Star,Follower,Repository,PullRequest,Issue,MultiLanguage"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=EliteDevSolution&column=6&theme=onedark&title=Commit,Star,Follower,Repository,PullRequest,Issue"/>
   </p>
   <br>
   <br>
