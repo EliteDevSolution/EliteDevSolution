@@ -14,7 +14,7 @@
   <br>
   <h4>Talking about Personal Stuffs:</h4>
   <samp> I am Full Stack Developer with 8+ years of programming exposure. I have worked on applications of all sizes, and have helped Startups and established institutions to solve their complex programming requirements.
-I am able to design and develop modern and complex web apps using Laravel,Django, Node.js, PHP and ASP.NET in the Backend and Angular 7 and 8,VueJs, React and Jquery in the Frontend and Shopify, Wordpress, Magento, Opencart etc..
+I am able to design and develop modern and complex web apps using Laravel, Django, Node.js, PHP and ASP.NET in the Backend and Angular 7 and 8,VueJs, React and Jquery in the Frontend and Flutter, Shopify, Wordpress, Magento, Opencart etc..
 I have contributed towards writing custom web services to assist communication with native mobile apps. My Technical Skills include the following:
     <p align='left'>• MEAN (MongoDB, Express, AngularJS and NodeJS)</p>
   <p align='left'>• Latest adoption being getting hands-on with PHP7, I am well versed to work in frameworks like CakePHP, CodeIgnitor, Laravel.</p>
