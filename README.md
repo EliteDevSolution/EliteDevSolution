@@ -81,6 +81,9 @@ I have contributed towards writing custom web services to assist communication w
     <img src="https://github-readme-stats.vercel.app/api?username=elitedevsolution&show_icons=true&theme=tokyonight&include_all_commits=true" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elitedevsolution&layout=compact&theme=tokyonight&include_all_commits=true" alt="languages" height="165">
 </p>
 
+[![EliteDevSolution's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elitedevsolution)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![ so cool!](https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg )
 
 <!--
