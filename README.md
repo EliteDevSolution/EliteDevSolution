@@ -32,8 +32,6 @@
  <br><br> <a href="https://ko-fi.com/elitedevsolution"><img src="https://storage.ko-fi.com/cdn/cup-border.png" id="animatedcup-1635902440435" width="23"/> Buy a Coffee </a>
 <p align="center">
   <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
-  <br>
-  <br>
   <h4>Talking about Personal Stuffs:</h4>
   <samp> I am Full Stack Developer with 9+ years of programming exposure. I have worked on applications of all sizes, and have helped Startups and established institutions to solve their complex programming requirements.
 I am able to design and develop modern and complex web apps using Laravel, Django, Node.js, PHP and ASP.NET in the Backend and Angular 7 and 8,VueJs, React and Jquery in the Frontend and Flutter, Shopify, Wordpress, Magento, Opencart etc..
