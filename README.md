@@ -30,9 +30,10 @@
   <img align="center" alt="EliteDevSolution's Codewars" height="30px" src="https://www.codewars.com/users/EliteDevSolution/badges/large" /> 
 </p>
  <br><br> <a href="https://ko-fi.com/elitedevsolution"><img src="https://storage.ko-fi.com/cdn/cup-border.png" id="animatedcup-1635902440435" width="23"/> Buy a Coffee </a>
- <p dir="auto"><a href="https://github.com/elitedevsolution"><img src="https://camo.githubusercontent.com/89cdc6c57bb830cd7b3e5870a620885153cb267c825015e1da815bbeb9141cd3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d70756e69746b6d727968" alt="Punit's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=elitedevsolution" style="max-width: 100%;"></a></p>
-<p align="center">
+ p align="center">
   <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
+  <p aligen="center"><a href="https://github.com/elitedevsolution"><img src="https://github-readme-stats.vercel.app/api?username=elitedevsolution" alt="EliteDevSolution's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=elitedevsolution" style="max-width: 100%;"></a></p>
+  <br/>
   <h4>Talking about Personal Stuffs:</h4>
   <samp> I am Full Stack Developer with 9+ years of programming exposure. I have worked on applications of all sizes, and have helped Startups and established institutions to solve their complex programming requirements.
 I am able to design and develop modern and complex web apps using Laravel, Django, Node.js, PHP and ASP.NET in the Backend and Angular 7 and 8,VueJs, React and Jquery in the Frontend and Flutter, Shopify, Wordpress, Magento, Opencart etc..
