@@ -39,7 +39,7 @@
 I am able to design and develop modern and complex web apps using Laravel, Django, Node.js, PHP and ASP.NET in the Backend and Angular 7 and 8,VueJs, React and Jquery in the Frontend and Flutter, Shopify, Wordpress, Magento, Opencart etc..
 I have contributed towards writing custom web services to assist communication with native mobile apps. My Technical Skills include the following:
     <p align='left'>• MERN & MEAN & MEVN (MongoDB, Express, ReactJS & AngularJS & VueJS and NodeJS)</p>
-  <p align='left'>• Latest adoption being getting hands-on with PHP7, I am well versed to work in frameworks like Laravel, Yii, Symfony, CakePHP, CodeIgnitor, .</p>
+  <p align='left'>• Latest adoption being getting hands-on with PHP, I am well versed to work in frameworks like Laravel, Yii, Symfony, CakePHP, CodeIgnitor.</p>
     <p align='left'>• Databases - NoSQL, MongoDB, PostgreSQL, MySQL, MSSQL, SQLite,</p>
   <p align='left'>• Other tools that I use for web based application development are ORM - Bookshelf, Doctrine, Propel, Ajax and JavaScript, XML, CSS3, Jquery.</p>
   <p align='left'>• All of my projects are available at: 
