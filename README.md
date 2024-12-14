@@ -1,6 +1,6 @@
 <h2 align='center'> 🙋🏻‍♂️ Hi over there, 👋 Welcome 🎉 to my profile! 🧑 </h2>
 
-<img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif" width="25" height="25"/> Developement of [Smartpublishers](https://system.smartpublishers.co) | [SPS Cloud](https://www.spscloud.io) | [Hoildental Milling](https://order.hoildental.com) | [Scamdar PWA](https://www.scamdar.com) | [Transferencia](https://transferencia.oops.ar) 
+<img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif" width="25" height="25"/> Developement of [Smartpublishers](https://system.smartpublishers.co) | [SPS Cloud](https://indieentertainmentmedia.com/australian-filmmaker-author-david-raynor-launches-spscloud-a-new-app-for-screenwriters/) | [Hoildental Milling](https://order.hoildental.com) | [Scamdar PWA](https://www.scamdar.com) | [Transferencia](https://transferencia.oops.ar) 
 
 <img src="https://emojis.slackmojis.com/emojis/images/1500426137/2648/allo-tongue.gif" width="25" height="25"/> Front-End | Back-End | WEB | API | B2B | B2C | WebRTC | Ecommerce | Market place | Marketing | Shipping | CRM | OpenCV 
 <br><br>
