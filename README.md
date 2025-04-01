@@ -10,8 +10,8 @@
     <a href="mailto:fstorm707@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/google-%2300acee.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="google">
     </a>
-    <a href="https://join.skype.com/invite/ph0Ic72a13n0" target="_blank">
-        <img src="https://img.shields.io/badge/skype-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=skype&amp;logoColor=white" alt="skype">
+    <a href="https://teams.live.com/l/invite/FEAONPezJc0IuABYAY" target="_blank">
+        <img src="https://img.shields.io/badge/teams-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=skype&amp;logoColor=white" alt="teams">
     </a>
     <a href="https://t.me/SuperCoder707" target="_blank">
         <img src="https://img.shields.io/badge/telegram-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=telegram&amp;logoColor=white" alt="telegram">
