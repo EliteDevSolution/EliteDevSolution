@@ -96,9 +96,6 @@ I have contributed towards writing custom web services to assist communication w
   For a better relationship in the future!!!
 </p>
 
-## My GitHub state:
-![ so cool!](https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg )
-
 <!--
 **punitkmryh/punitkmryh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
